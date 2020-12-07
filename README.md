@@ -1,4 +1,4 @@
-## The Communist Button App
+# The Communist Button App
 
-# One Rule:
+## One Rule:
 Don't Press the Button
